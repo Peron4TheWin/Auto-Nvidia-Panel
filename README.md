@@ -1,1 +1,1 @@
-Si estar arto de tener que siempre usar drivers NO DCH o no poder usar los ultimos drivers de tu placa nvidia porque no dispones de la microsoft store en tu windows actual y no quieres instalar el panel manualmente, te traigo una solucion sencilla
+Si estar harto de tener que siempre usar drivers NO DCH o no poder usar los ultimos drivers de tu placa nvidia porque no dispones de la microsoft store en tu windows actual y no quieres instalar el panel manualmente, te traigo una solucion sencilla
